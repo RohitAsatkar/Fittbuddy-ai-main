@@ -1,0 +1,1 @@
+Key Store Path: C:\Users\HP\Downloads\fittbuddy-ai-main\fittbuddy-ai-main\android\app\keystore\release-key.keystore

@@ -1,0 +1,15 @@
+.typing-dot {
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius: 9999px;
+  background-color: #4a1d96;
+  animation: bounce 1s infinite;
+}
+
+.typing-dot-delay-1 {
+  animation-delay: 0.2s;
+}
+
+.typing-dot-delay-2 {
+  animation-delay: 0.4s;
+}

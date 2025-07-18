@@ -1,0 +1,133 @@
+{
+    "exercise_data": [
+        {
+            "goal": "weight loss",
+            "fitness_level": "beginner",
+            "exercise_type": "home",
+            "target_area": "full_body",
+            "routine": {
+                "weekly_split": "Full Body (Mon, Wed, Fri)",
+                "duration_per_session": "45 minutes",
+                "intensity": "moderate",
+                "equipment_needed": ["dumbbells", "resistance bands"]
+            },
+            "exercises": [
+                {
+                    "name": "Bodyweight Squats",
+                    "sets": 3,
+                    "reps": "12-15",
+                    "rest_time": "60 seconds",
+                    "instructions": "Stand with feet shoulder-width apart. Lower your body by bending knees and hips, keeping back straight. Return to starting position.",
+                    "muscles_targeted": ["quadriceps", "hamstrings", "glutes"],
+                    "form_tips": [
+                        "Keep chest up",
+                        "Knees in line with toes",
+                        "Breathe steadily"
+                    ],
+                    "difficulty": "beginner",
+                    "calories_burned": 8
+                },
+                {
+                    "name": "Push-ups",
+                    "sets": 3,
+                    "reps": "8-12",
+                    "rest_time": "60 seconds",
+                    "instructions": "Start in plank position. Lower chest to ground by bending elbows, then push back up.",
+                    "muscles_targeted": ["chest", "shoulders", "triceps"],
+                    "form_tips": [
+                        "Keep body straight",
+                        "Elbows at 45 degrees",
+                        "Full range of motion"
+                    ],
+                    "difficulty": "beginner",
+                    "calories_burned": 7
+                }
+            ],
+            "recommendations": [
+                "Start slowly and focus on form",
+                "Increase reps before adding weight",
+                "Stay hydrated during workout"
+            ],
+            "progression_metrics": {
+                "weekly_progression": "Add 1-2 reps when current range feels comfortable",
+                "monthly_goals": ["Improve form", "Increase endurance", "Build basic strength"]
+            }
+        },
+        {
+            "goal": "muscle gain",
+            "fitness_level": "intermediate",
+            "exercise_type": "gym",
+            "target_area": "upper_body",
+            "routine": {
+                "weekly_split": "Push/Pull/Legs",
+                "duration_per_session": "60 minutes",
+                "intensity": "high",
+                "equipment_needed": ["barbell", "dumbbells", "cable machine"]
+            },
+            "exercises": [
+                {
+                    "name": "Bench Press",
+                    "sets": 4,
+                    "reps": "8-10",
+                    "rest_time": "90 seconds",
+                    "instructions": "Lie on bench, grip barbell wider than shoulders, lower to chest, press up with control.",
+                    "muscles_targeted": ["chest", "shoulders", "triceps"],
+                    "form_tips": [
+                        "Keep wrists straight",
+                        "Feet flat on floor",
+                        "Control the descent"
+                    ],
+                    "difficulty": "intermediate",
+                    "calories_burned": 12
+                },
+                {
+                    "name": "Pull-ups",
+                    "sets": 4,
+                    "reps": "6-8",
+                    "rest_time": "90 seconds",
+                    "instructions": "Hang from bar with overhand grip, pull body up until chin over bar, lower with control.",
+                    "muscles_targeted": ["back", "biceps", "core"],
+                    "form_tips": [
+                        "Engage core throughout",
+                        "Full range of motion",
+                        "Control the movement"
+                    ],
+                    "difficulty": "intermediate",
+                    "calories_burned": 10
+                }
+            ],
+            "recommendations": [
+                "Focus on progressive overload",
+                "Track protein intake",
+                "Ensure adequate rest between sessions"
+            ],
+            "progression_metrics": {
+                "weekly_progression": "Increase weight by 2.5-5% when reaching rep target",
+                "monthly_goals": ["Increase lifting numbers", "Maintain form", "Build muscle mass"]
+            }
+        }
+    ],
+    "diet_data": [
+        {
+            "goal": "weight loss",
+            "daily_calories": 2000,
+            "macros": {
+                "protein": "40%",
+                "carbs": "35%",
+                "fats": "25%"
+            },
+            "meal_timing": {
+                "breakfast": "7:00 AM",
+                "snack": "10:00 AM",
+                "lunch": "1:00 PM",
+                "post_workout": "4:00 PM",
+                "dinner": "7:00 PM"
+            },
+            "recommendations": [
+                "Eat protein with every meal",
+                "Stay hydrated",
+                "Control portion sizes"
+            ]
+        }
+    ]
+}

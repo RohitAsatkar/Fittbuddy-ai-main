@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Fitbuddy AI</string>
+    <string name="title_activity_main">Fitbuddy AI</string>
+    <string name="package_name">app.lovable.a02cb6584f2b4e27ae9e9d721b45ea30</string>
+    <string name="custom_url_scheme">app.lovable.a02cb6584f2b4e27ae9e9d721b45ea30</string>
+</resources>
